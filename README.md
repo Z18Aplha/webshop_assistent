@@ -2,7 +2,7 @@
 Checks a given product in a webshop whether its available or not and sends a notification with Pushover when changing.
 
 # Setup
-1. create `config.yaml` in the folder of 'main.py' according to `config_example.yaml`.
+1. create `config.yaml` in the folder of `main.py` according to `config_example.yaml`.
 2. start `main.py` or run in docker
 ## Docker
 To run the script in docker build the image with the Dockerfile and type
