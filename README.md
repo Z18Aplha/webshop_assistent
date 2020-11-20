@@ -11,5 +11,5 @@ docker build . webshop_assistent:latest
 ```
 and run it with
 ```
-docker run -v <path_to_repos>:/webshop_asisstent webshop_assistent_latest
+docker run -v <path_to_repos>:/webshop_asisstent webshop_assistent:latest
 ```
