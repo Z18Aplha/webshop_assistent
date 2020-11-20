@@ -1,0 +1,35 @@
+pushover:
+    user_key: <pushover user key>
+    api_token: <pushover api key>
+
+products:
+    250: 
+        name: "250"
+        website: https://www.roboexpert.de/gardena/Gardena-SILENO-city-250-m-Modell-2020.html
+        string: Bald verfügbar!
+        indicates_in_stock: False
+    500: 
+        name: "500"
+        website: https://www.roboexpert.de/gardena-maehroboter/Gardena-Sileno-City-500-Modell-2020.html
+        string: Bald verfügbar!
+        indicates_in_stock: False
+    500smart: 
+        name: 500smart
+        website: https://www.roboexpert.de/gardena-maehroboter/Gardena-smart-SILENO-city-500-m-Set-Modell-2020.html
+        string: Bald verfügbar!
+        indicates_in_stock: False
+    750: 
+        name: "750"
+        website: https://www.roboexpert.de/maehroboter/Gardena-SILENO-life-750-Modell-2019.html
+        string: Bald verfügbar!
+        indicates_in_stock: False
+    750smart: 
+        name: 750smart
+        website: https://www.roboexpert.de/maehroboter/Gardena-smart-SILENO-life-750-Modell-2020.html
+        string: Bald verfügbar!
+        indicates_in_stock: False
+    Husqvarna105: 
+        name: Husqvarna105
+        website: https://www.roboexpert.de/husqvarna-maehroboter/Husqvarna-Automower-105.html
+        string: Bald verfügbar!
+        indicates_in_stock: False
